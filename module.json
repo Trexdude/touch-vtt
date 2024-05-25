@@ -1,6 +1,6 @@
 {
   "id": "touch-vtt",
-  "title": "TouchVTT",
+  "title": "Trexdude's TouchVTT Mod",
   "description": "Adds touch screen support to FoundryVTT",
   "authors": [
     {
@@ -14,10 +14,10 @@
     "verified": "11.302"
   },
   "scripts": [
-    "dist/touch-vtt.js"
+    "src/touch-vtt.js"
   ],
   "styles": [
-    "dist/touch-vtt.css"
+    "style/touch-vtt.css"
   ],
   "languages": [
     {
@@ -31,10 +31,8 @@
       "path": "lang/de.json"
     }
   ],
-  "url": "https://github.com/Oromis/touch-vtt",
-  "download": "https://github.com/Oromis/touch-vtt/releases/download/v1.11.0/touch-vtt-v1.11.0.zip",
-  "manifest": "https://raw.githubusercontent.com/Oromis/touch-vtt/main/module.json",
+  "url": "https://github.com/Trexdude/touch-vtt/tree/touch_selecting_fix",
+  "manifest": "https://raw.githubusercontent.com/Trexdude/touch-vtt/touch_selecting_fix/module.json",
   "license": "https://www.gnu.org/licenses/gpl-3.0.en.html",
-  "readme": "README.md",
-  "bugs": "https://github.com/Oromis/touch-vtt/issues"
+  "readme": "README.md"
 }
